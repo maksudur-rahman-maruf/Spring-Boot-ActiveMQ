@@ -44,7 +44,7 @@ public class StudentConfig {
 
 	@Bean
 	public JmsListenerContainerFactory<?> jmsFactory(ConnectionFactory connectionFactory,
-													 DefaultJmsListenerContainerFactoryConfigurer configurer) {
+					DefaultJmsListenerContainerFactoryConfigurer configurer) {
 		DefaultJmsListenerContainerFactory factory = new DefaultJmsListenerContainerFactory();
 		factory.setPubSubDomain(true);
 		factory.setMessageConverter(jacksonJmsMessageConverter());
