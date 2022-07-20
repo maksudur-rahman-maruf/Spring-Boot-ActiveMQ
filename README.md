@@ -1,4 +1,4 @@
-## Topic vs Queue Explanation
+## Topics vs Queues Explanation
 https://medium.com/geekculture/queues-vs-topics-and-examples-with-java-spring-boot-and-apache-activemq-d945c474bc3e
 
 ## Making Topics Work
