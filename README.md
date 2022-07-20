@@ -1,4 +1,3 @@
-# Spring-Boot-ActiveMQ
 ## Topic vs Queue Explanation
 https://medium.com/geekculture/queues-vs-topics-and-examples-with-java-spring-boot-and-apache-activemq-d945c474bc3e
 
